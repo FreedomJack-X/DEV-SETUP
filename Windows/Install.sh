@@ -25,3 +25,4 @@ dism.exe /online /enable-feature /featurename:VirtualMachinePlatform /all /nores
 wsl --set-default-version 2
 # Follow instructions to Install your Linux distribution from Microsoft Store
 
+# Follow https://github.com/dracula/powershell to install theme for Powershell
